@@ -1,0 +1,20 @@
+Mcq Logical Report
+
+1)  7th day is Tuesday
+    We want 20th day 
+    So 7+7=14th day is Tuesday
+    15th Wed,16th Thur,17th Fri,18th Sat,19th Sun,20th Monday;
+
+2) 10*9=90 how 90 x=comes--- 9*10=90  10*9=90 so 10+9=19 and B and C leaved after 3 days so 10+9+3=22 days   
+
+3) Women is my son's wife so relation between kumar is Father in law and Women is Daughter in law
+
+4)A walks----East>7km*****South>5km*****East>5km*****North>10km 
+AD^2=Ac^2+Dc^2
+    =12^2+5^2
+    =144+25
+    =169 take square root
+    =13
+
+5)As first necklace is related to gold in the same way shirt is related to cotton
+
