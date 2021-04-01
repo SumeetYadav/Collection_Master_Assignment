@@ -1,4 +1,4 @@
-
+//palindrome
 
 import java.util.Scanner;
 
